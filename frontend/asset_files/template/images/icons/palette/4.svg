@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="63px" height="63px" viewBox="0 0 63 63" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 47.1 (45422) - http://www.bohemiancoding.com/sketch -->
+    <title>Page 1</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round">
+        <g id="Artboard" transform="translate(-448.000000, -50.000000)" stroke="#4F5053" stroke-width="1.417">
+            <g id="Page-1" transform="translate(448.000000, 50.000000)">
+                <path d="M61.5127,31.1092 C61.5127,47.9002 47.9017,61.5112 31.1107,61.5112 C14.3207,61.5112 0.7087,47.9002 0.7087,31.1092 C0.7087,14.3192 14.3207,0.7082 31.1107,0.7082 C47.9017,0.7082 61.5127,14.3192 61.5127,31.1092 Z" id="Stroke-1"></path>
+                <path d="M31.1099,46.8568 C25.2209,46.8568 20.4469,42.0838 20.4469,36.1938 C20.4469,36.1938 20.1759,30.7028 27.2969,20.7258 L31.1099,15.3628 L34.9239,20.7258 C42.0449,30.7028 41.7739,36.1938 41.7739,36.1938 C41.7739,42.0838 36.9999,46.8568 31.1099,46.8568 Z" id="Stroke-3"></path>
+            </g>
+        </g>
+    </g>
+</svg>

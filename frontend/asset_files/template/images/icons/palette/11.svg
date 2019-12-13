@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="63px" height="63px" viewBox="0 0 63 63" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 47.1 (45422) - http://www.bohemiancoding.com/sketch -->
+    <title>Page 1</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Artboard" transform="translate(-448.000000, -316.000000)">
+            <g id="Page-1" transform="translate(448.000000, 316.000000)">
+                <path d="M61.5133,31.1102 C61.5133,47.9012 47.9023,61.5122 31.1113,61.5122 C14.3213,61.5122 0.7083,47.9012 0.7083,31.1102 C0.7083,14.3192 14.3213,0.7092 31.1113,0.7092 C47.9023,0.7092 61.5133,14.3192 61.5133,31.1102 Z" id="Stroke-1" stroke="#4F5053" stroke-width="1.417" stroke-linecap="round" stroke-linejoin="round"></path>
+                <text id="КМ2" font-family="BrutalType-Bold, Brutal Type" font-size="10" font-weight="bold" fill="#4D4F51">
+                    <tspan x="21.043" y="50.1564797">КМ2</tspan>
+                </text>
+                <g id="Group-7" transform="translate(19.000000, 8.221000)" stroke="#4F5053" stroke-width="1.417" stroke-linecap="round" stroke-linejoin="round">
+                    <path d="M20.9874,12.8443 C22.3134,14.9383 23.4034,17.2633 23.4034,19.9323 C23.4034,26.3403 18.2094,31.5343 11.8004,31.5343 C5.3924,31.5343 0.1984,26.3403 0.1984,19.9323 C0.1984,16.6333 1.5754,13.6563 3.7864,11.5423 C3.7864,11.5423 4.8964,17.0833 8.3184,16.8993 C8.3184,16.8993 6.7144,5.7053 15.3764,0.8063 C15.3764,0.8063 14.5484,4.4483 19.3224,10.4253 C19.3224,10.4253 19.8604,11.0673 20.9874,12.8443 Z" id="Stroke-3"></path>
+                    <path d="M15.8541,23.2886 C16.4391,24.2126 16.9191,25.2376 16.9191,26.4156 C16.9191,29.2426 14.6271,31.5346 11.8001,31.5346 C8.9731,31.5346 6.6811,29.2426 6.6811,26.4156 C6.6811,24.9606 7.2891,23.6456 8.2641,22.7156 C8.2641,22.7156 8.7541,25.1586 10.2641,25.0776 C10.2641,25.0776 9.5561,20.1406 13.3781,17.9766 C13.3781,17.9766 13.0121,19.5836 15.1191,22.2226 C15.1191,22.2226 15.3571,22.5046 15.8541,23.2886 Z" id="Stroke-5"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

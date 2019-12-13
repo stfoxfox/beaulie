@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="63px" height="63px" viewBox="0 0 63 63" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 47.1 (45422) - http://www.bohemiancoding.com/sketch -->
+    <title>Page 1</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <polygon id="path-1" points="0 62.22 62.221 62.22 62.221 0 0 0"></polygon>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Artboard" transform="translate(-195.000000, -53.000000)">
+            <g id="Page-1" transform="translate(195.000000, 53.000000)">
+                <path d="M61.5128,31.1092 C61.5128,47.9002 47.9018,61.5112 31.1108,61.5112 C14.3208,61.5112 0.7088,47.9002 0.7088,31.1092 C0.7088,14.3192 14.3208,0.7082 31.1108,0.7082 C47.9018,0.7082 61.5128,14.3192 61.5128,31.1092 Z" id="Stroke-1" stroke="#4F5053" stroke-width="1.417" stroke-linecap="round" stroke-linejoin="round"></path>
+                <path d="M30.6549,8.7274 L30.6549,37.6084" id="Stroke-3" stroke="#4F5053" stroke-width="1.417" stroke-linecap="round" stroke-linejoin="round"></path>
+                <path d="M38.2408,39.784 L23.0678,39.784 C22.4938,39.784 22.0268,39.318 22.0268,38.743 L22.0268,38.649 C22.0268,38.075 22.4938,37.608 23.0678,37.608 L38.2408,37.608 C38.8158,37.608 39.2818,38.075 39.2818,38.649 L39.2818,38.743 C39.2818,39.318 38.8158,39.784 38.2408,39.784 Z" id="Stroke-5" stroke="#4F5053" stroke-width="1.417" stroke-linecap="round" stroke-linejoin="round"></path>
+                <path d="M22.8961,50.7342 C29.5531,46.2692 28.4581,39.7842 28.4581,39.7842 L24.1411,39.7842 C24.1411,39.7842 25.2361,46.2692 18.5801,50.7342 L22.8961,50.7342 Z" id="Stroke-7" stroke="#4F5053" stroke-width="1.417"></path>
+                <path d="M27.2252,50.7342 C33.8812,46.2692 32.7872,39.7842 32.7872,39.7842 L28.4702,39.7842 C28.4702,39.7842 29.5652,46.2692 22.9082,50.7342 L27.2252,50.7342 Z" id="Stroke-9" stroke="#4F5053" stroke-width="1.417"></path>
+                <path d="M31.5416,50.7342 C38.1986,46.2692 37.1036,39.7842 37.1036,39.7842 L32.7866,39.7842 C32.7866,39.7842 33.8816,46.2692 27.2256,50.7342 L31.5416,50.7342 Z" id="Stroke-11" stroke="#4F5053" stroke-width="1.417"></path>
+                <mask id="mask-2" fill="white">
+                    <use xlink:href="#path-1"></use>
+                </mask>
+                <g id="Clip-14"></g>
+                <polygon id="Fill-13" fill="#4F5053" mask="url(#mask-2)" points="41.909 42.803 43.814 42.803 43.814 40.899 41.909 40.899"></polygon>
+                <polygon id="Fill-15" fill="#4F5053" mask="url(#mask-2)" points="45.719 42.803 47.623 42.803 47.623 40.899 45.719 40.899"></polygon>
+                <polygon id="Fill-16" fill="#4F5053" mask="url(#mask-2)" points="40.005 46.613 41.909 46.613 41.909 44.709 40.005 44.709"></polygon>
+                <polygon id="Fill-17" fill="#4F5053" mask="url(#mask-2)" points="43.815 46.613 45.719 46.613 45.719 44.709 43.815 44.709"></polygon>
+                <polygon id="Fill-18" fill="#4F5053" mask="url(#mask-2)" points="38.1 50.452 40.005 50.452 40.005 48.547 38.1 48.547"></polygon>
+                <polygon id="Fill-19" fill="#4F5053" mask="url(#mask-2)" points="41.909 50.452 43.814 50.452 43.814 48.547 41.909 48.547"></polygon>
+            </g>
+        </g>
+    </g>
+</svg>
